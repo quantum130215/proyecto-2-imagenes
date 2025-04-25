@@ -1,4 +1,6 @@
-# proyecto-2-imagenes
+# proyecto-2-imagenes (REalizado por Adrián Zavala López)
+correo: adrian.zavala@alumno.buap.mx
+
 En el proyecto se hizo eleccion de la base de datos CIFAR-10 para aplicarle el filtro
 FIND_EDGES que funciona para realizar la deteccion basica de los bordes en las imagenes
 Se realizo de tres formas por mera curiosidad, se realizo la aplicacion del filtro con 
